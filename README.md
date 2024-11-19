@@ -4,7 +4,7 @@ This project combines computer vision, embedded systems, and audio feedback to d
 
 ## Credits: 
 
-Base drowsiness detection owned by https://www.geeksforgeeks.org/python-opencv-drowsiness-detection/
+Base drowsiness detection created and owned by https://www.geeksforgeeks.org/python-opencv-drowsiness-detection/
 
 ## Features
 
