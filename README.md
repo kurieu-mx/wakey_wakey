@@ -2,9 +2,6 @@
 
 This project combines computer vision, embedded systems, and audio feedback to detect drowsiness and manage a servo-controlled machine. It includes real-time monitoring of a user's eye aspect ratio to identify drowsiness, Arduino-controlled hardware states, and optional accelerometer-based control.
 
-## Credits: 
-
-Base drowsiness detection created and owned by https://www.geeksforgeeks.org/python-opencv-drowsiness-detection/
 
 ## Features
 
